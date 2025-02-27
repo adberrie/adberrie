@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, operating systems, and networks
 - 🌱 I’m currently learning networking and swift
 - 📫 How to reach me adberrie6@gmail.com
-- 😄 Pronouns: any
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm partially self taught
 
 <!---
